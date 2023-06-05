@@ -17,7 +17,7 @@ Tested in DMD, but any D lang compiler can be used.
 
 ## Downloads
 
-Look at this wonderful release page.
+Look at this wonderful [release page](https://github.com/neurocore/compreco/releases).
 
 ## Why
 
